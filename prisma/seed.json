@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": "default-food",
+      "name": "Food & Dining",
+      "type": "expense",
+      "color": "#EF4444",
+      "icon": "Utensils"
+    },
+    {
+      "id": "default-transport",
+      "name": "Transportation",
+      "type": "expense",
+      "color": "#3B82F6",
+      "icon": "Car"
+    },
+    {
+      "id": "default-shopping",
+      "name": "Shopping",
+      "type": "expense",
+      "color": "#8B5CF6",
+      "icon": "ShoppingBag"
+    },
+    {
+      "id": "default-bills",
+      "name": "Bills & Utilities",
+      "type": "expense",
+      "color": "#F59E0B",
+      "icon": "Receipt"
+    },
+    {
+      "id": "default-entertainment",
+      "name": "Entertainment",
+      "type": "expense",
+      "color": "#10B981",
+      "icon": "Film"
+    },
+    {
+      "id": "default-salary",
+      "name": "Salary",
+      "type": "income",
+      "color": "#059669",
+      "icon": "DollarSign"
+    },
+    {
+      "id": "default-freelance",
+      "name": "Freelance",
+      "type": "income",
+      "color": "#0891B2",
+      "icon": "Briefcase"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "default-checking",
+      "name": "Checking Account",
+      "type": "checking",
+      "balance": 0,
+      "currency": "USD"
+    },
+    {
+      "id": "default-savings",
+      "name": "Savings Account",
+      "type": "savings",
+      "balance": 0,
+      "currency": "USD"
+    },
+    {
+      "id": "default-credit",
+      "name": "Credit Card",
+      "type": "credit",
+      "balance": 0,
+      "currency": "USD"
+    }
+  ]
+}
